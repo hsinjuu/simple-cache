@@ -1,8 +1,8 @@
 {
-    "name": "hsinjuu/simpleCache",
+    "name": "hsinjuu/simple-cache",
     "description": "iThome 鐵人賽 simple-cache 開源php練習。",
-    "keywords": ["hsinjuu", "simpleCache"],
-    "homepage": "https://github.com/hsinjuu/simpleCache",
+    "keywords": ["hsinjuu", "simple-cache"],
+    "homepage": "https://github.com/hsinjuu/simple-cache",
     "license": "MIT",
     "authors": [
         {
