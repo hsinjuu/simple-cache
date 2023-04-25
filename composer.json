@@ -1,0 +1,25 @@
+{
+    "name": "hsinjuu/simpleCache",
+    "description": "iThome 鐵人賽 simple-cache 開源php練習。",
+    "keywords": ["hsinjuu", "simpleCache"],
+    "homepage": "https://github.com/hsinjuu/simpleCache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HsinJuu Tsai",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "ItHelp\\": "src"
+        }
+    }
+}
